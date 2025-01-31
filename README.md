@@ -21,6 +21,6 @@ This activity covers advanced API development concepts, including versioning, au
 
 # Laboratory Activity #5: Deploying API in Cloud
 
-This activity focuses on deploying APIs to a cloud platform. Participants will learn how to develop and deploy their APIs to Render, ensuring that their work is accessible online. The task requires deploying Laboratory Activity #4 to Render using the provided guide.
+This activity focuses on deploying APIs to a cloud platform. Students will learn how to develop and deploy their APIs to Render, ensuring that their work is accessible online. The task requires deploying Laboratory Activity #4 to Render.
 
-Each folder contains the corresponding code and necessary files for its respective laboratory activity. Follow the instructions within each folder for implementation and testing.
+Each folder contains the corresponding code and necessary files for its respective laboratory activity.
