@@ -3,7 +3,7 @@ Laboratory Activities - FastAPI
 
 This repository contains multiple laboratory activities related to FastAPI, each focusing on a specific aspect of API development. Below is a description of each activity.
 
-# Laboratory Activity #1: Introduction to FastAPI
+# - [Laboratory Activity #1: Introduction to FastAPI](./Lab1/)
 
 This activity introduces FastAPI as a framework for building APIs. It provides a hands-on experience in creating, running, and testing APIs while reinforcing Python programming skills. The primary task is to implement an API endpoint that calculates the factorial of a given number using a while loop. The endpoint should return false if the input is zero.
 
